@@ -31,3 +31,5 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+![screenshot](./Develop/imgs/Screenshot%20(7).png)
+![screenshot](./Develop/imgs/Screenshot%20(8).png)
